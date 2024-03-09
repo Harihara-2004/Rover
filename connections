@@ -1,0 +1,8 @@
+Left Wheel +ve:M1 , -ve:M2
+Right Wheel +ve:M3, -ve:M4
+EN1 D5
+IN1 D8
+IN2 D7
+EN2 D6
+IN3 D4
+IN4 D3
